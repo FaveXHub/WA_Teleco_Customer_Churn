@@ -14,10 +14,11 @@ The main focus is on **data cleaning, exploratory data analysis (EDA), visualiza
 
 ## Tools & Libraries Used
 - **Python**
-- **Pandas** – for data cleaning and manipulation  
-- **NumPy** – for numerical operations  
-- **Matplotlib** – for static visualizations  
-- **Seaborn** – for detailed statistical plots  
+   ***Pandas*** – for data cleaning and manipulation  
+   ***NumPy*** – for numerical operations  
+   ***Matplotlib*** – for static visualizations  
+   ***Seaborn*** – for detailed statistical plots
+- **Google sheets** - for data cleaning, EDA and data Visualization
 
 
 ## Workflow
